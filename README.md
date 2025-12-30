@@ -63,7 +63,7 @@ This project addresses this issue by creating a **single source of truth** with 
 - SQL for data extraction, filtering, and transformation  
 - ETL process using Power Query  
 - Data modeling with fact and dimension tables  
-- Building relationships using star schema  
+- Building relationships using snowflake schema  
 - Creating dynamic measures using DAX  
 - Time intelligence calculations (YoY, MoM, YTD)  
 - Performance optimization and clean report design  
