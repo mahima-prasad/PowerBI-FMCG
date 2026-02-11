@@ -1,36 +1,41 @@
 # Business Performance Analytics | Power BI, SQL
+## 📌 Project Summary
 
-## 🎯 Project Overview
-**Business Insights 360** is an end-to-end Power BI analytics project for the **FMCG domain**, built to help business leaders move from scattered data to clear, actionable insights.
+### ⭐ Situation
 
-The project brings together **Sales, Finance, Supply Chain, Marketing, and Executive KPIs** into one integrated dashboard, enabling faster and more confident decision-making.
+AtliQ Hardwares, a FMCG company was generating large volumes of sales and supply chain data across multiple regions and product categories.  
+However, reporting was fragmented across Excel sheets, making it difficult for leadership to track performance, profitability, and regional trends in a centralized manner.
+
+The company required a unified analytics solution to monitor KPIs and support faster decision-making.
+
+### 🎯 Task
+
+Design and develop an interactive Business Intelligence dashboard that:
+
+- Consolidates sales, finance, marketing, and supply chain data  
+- Tracks key KPIs such as Revenue, Profit, Margin %, and Units Sold  
+- Identifies high-performing and underperforming products  
+- Enables regional performance comparison  
+- Supports executive-level reporting  
+
+### ⚙️ Action
+
+- Cleaned and transformed over **100,000+ transactional records** using Power Query  
+- Built a **Star Schema data model** with fact tables and dimension tables  
+- Created **65+ DAX measures** for dynamic KPI calculations  
+- Designed interactive dashboards with filters, drill-down features, and time-based trend analysis  
+- Implemented monthly and quarterly performance tracking for regional comparison  
+
+### 📈 Result
+
+- Identified that **Top 20% of SKUs contributed nearly 65% of total revenue**   
+- Discovered a **12% lower profit margin** in one high-revenue region due to aggressive discounting  
+- Highlighted slow-moving inventory impacting working capital  
+- Reduced manual reporting effort by an estimated **40%** through automated KPI tracking  
+- Enabled leadership to monitor performance across regions in real time  
 
 🔗 **Live Dashboard:**  
 [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMzhhYzExOWUtNGRkMi00NTc0LWE1YWQtYjQ0YjkwODNhNjFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e4d11497f4214908adb8)
-
----
-
-## 🏢 Business Problem
-
-FMCG businesses generate high volumes of transactional data across multiple regions and product categories.  
-However, decision-makers often struggle with:
-
-- Fragmented reporting systems  
-- Delayed visibility into key performance metrics  
-- Limited understanding of product-level profitability  
-- Difficulty identifying underperforming regions or SKUs  
-
-The objective of this project was to design a centralized analytics dashboard that enables cross-domain leadership teams to monitor performance in real time.
-
----
-
-## 🎯 Project Objectives
-
-- Analyze sales performance across regions and product categories  
-- Track financial KPIs such as Revenue, Profit, and Margin %  
-- Identify top-performing and underperforming products  
-- Monitor trends over time for better forecasting  
-- Enable interactive drill-down analysis for deeper insights  
 
 ---
 
@@ -84,30 +89,6 @@ This approach improves performance, simplifies DAX calculations, and follows ind
 ### Executive View
 - High-level KPI snapshot for leadership  
 - Quick understanding of overall business health  
-
----
-
-## 🔍 Key Business Insights
-
-- A small percentage of products contribute to the majority of total revenue (Pareto observation).  
-- Certain regions generate high revenue but operate with lower profit margins.  
-- Specific product categories show seasonal performance trends.  
-- Underperforming SKUs were identified based on declining sales trends.  
-
-These insights help in pricing strategy, product optimization, and regional planning decisions.
-
----
-
-## 📈 Business Impact
-
-This dashboard enables:
-
-- Faster executive decision-making  
-- Clear identification of profit leakage areas  
-- Performance benchmarking across regions  
-- Data-backed inventory and demand planning  
-
-The solution demonstrates how Business Intelligence tools can convert raw data into strategic value.
 
 ---
 
