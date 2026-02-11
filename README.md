@@ -121,4 +121,4 @@ This ensured data accuracy and reliability before visualization.
 This project reflects my ability to combine **business understanding with technical Power BI skills** to deliver clear, actionable insights.  
 It demonstrates how data can be transformed into meaningful stories that support growth, efficiency, and better decision-making.
 
-💬 Feel free to explore the dashboard and connect with me on **[LinkedIn](https://www.linkedin.com/in/mahima-prasad-analyst/)** for feedback, collaboration, or opportunities.
+💬 Feel free to explore the dashboard and connect with me on **[LinkedIn](https://www.linkedin.com/in/mahima-prasad-analyst/)** for feedback, collaboration, or opportunities. **Portfolio**: [Mahima Prasad - Portfolio](https://codebasics.io/portfolio/Mahima-Prasad)
